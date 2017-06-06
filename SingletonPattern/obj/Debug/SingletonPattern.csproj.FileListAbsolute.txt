@@ -1,6 +1,5 @@
 C:\Design Patterns 05062017\Design-Pattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
 C:\Design Patterns 05062017\Design-Pattern\SingletonPattern\bin\Debug\SingletonPattern.exe
 C:\Design Patterns 05062017\Design-Pattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
-C:\Design Patterns 05062017\Design-Pattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
 C:\Design Patterns 05062017\Design-Pattern\SingletonPattern\obj\Debug\SingletonPattern.exe
 C:\Design Patterns 05062017\Design-Pattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

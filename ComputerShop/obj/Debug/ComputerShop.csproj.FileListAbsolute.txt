@@ -1,5 +1,4 @@
 C:\Design Patterns 05062017\Design-Pattern\ComputerShop\bin\Debug\ComputerShop.dll
 C:\Design Patterns 05062017\Design-Pattern\ComputerShop\bin\Debug\ComputerShop.pdb
-C:\Design Patterns 05062017\Design-Pattern\ComputerShop\obj\Debug\ComputerShop.csprojResolveAssemblyReference.cache
 C:\Design Patterns 05062017\Design-Pattern\ComputerShop\obj\Debug\ComputerShop.dll
 C:\Design Patterns 05062017\Design-Pattern\ComputerShop\obj\Debug\ComputerShop.pdb

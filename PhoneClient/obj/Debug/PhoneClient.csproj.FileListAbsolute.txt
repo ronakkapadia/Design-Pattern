@@ -1,0 +1,8 @@
+C:\Design Patterns 05062017\Design-Pattern\PhoneClient\bin\Debug\PhoneClient.exe.config
+C:\Design Patterns 05062017\Design-Pattern\PhoneClient\bin\Debug\PhoneClient.exe
+C:\Design Patterns 05062017\Design-Pattern\PhoneClient\bin\Debug\PhoneClient.pdb
+C:\Design Patterns 05062017\Design-Pattern\PhoneClient\bin\Debug\MobileManufacturer.dll
+C:\Design Patterns 05062017\Design-Pattern\PhoneClient\bin\Debug\MobileManufacturer.pdb
+C:\Design Patterns 05062017\Design-Pattern\PhoneClient\obj\Debug\PhoneClient.csprojResolveAssemblyReference.cache
+C:\Design Patterns 05062017\Design-Pattern\PhoneClient\obj\Debug\PhoneClient.exe
+C:\Design Patterns 05062017\Design-Pattern\PhoneClient\obj\Debug\PhoneClient.pdb

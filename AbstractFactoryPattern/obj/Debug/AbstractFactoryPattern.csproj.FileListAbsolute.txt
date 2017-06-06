@@ -1,0 +1,8 @@
+C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\bin\Debug\ComputerShop.dll
+C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\bin\Debug\ComputerShop.pdb
+C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

@@ -12,7 +12,7 @@ namespace Command
 		public event EventHandler onBoiled; 
 		public void BoilWater()
 		{
-			for (int i = 0; i <= 150; i++)
+			for (int i = 1; i <= 150; i++)
 			{
 				Console.WriteLine(i);
 				Thread.Sleep(100);

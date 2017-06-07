@@ -1,6 +1,7 @@
 C:\Design Patterns 05062017\Design-Pattern\BuilderPatternDemo2\bin\Debug\BuilderPatternDemo2.exe.config
 C:\Design Patterns 05062017\Design-Pattern\BuilderPatternDemo2\bin\Debug\BuilderPatternDemo2.exe
 C:\Design Patterns 05062017\Design-Pattern\BuilderPatternDemo2\bin\Debug\BuilderPatternDemo2.pdb
+C:\Design Patterns 05062017\Design-Pattern\BuilderPatternDemo2\obj\Debug\BuilderPatternDemo2.csprojResolveAssemblyReference.cache
 C:\Design Patterns 05062017\Design-Pattern\BuilderPatternDemo2\obj\Debug\BuilderPatternDemo2.Form1.resources
 C:\Design Patterns 05062017\Design-Pattern\BuilderPatternDemo2\obj\Debug\BuilderPatternDemo2.Properties.Resources.resources
 C:\Design Patterns 05062017\Design-Pattern\BuilderPatternDemo2\obj\Debug\BuilderPatternDemo2.csproj.GenerateResource.Cache

@@ -3,3 +3,8 @@ C:\Design Patterns 05062017\Design-Pattern\BridgesPattern\bin\Debug\BridgesPatte
 C:\Design Patterns 05062017\Design-Pattern\BridgesPattern\bin\Debug\BridgesPattern.pdb
 C:\Design Patterns 05062017\Design-Pattern\BridgesPattern\obj\Debug\BridgesPattern.exe
 C:\Design Patterns 05062017\Design-Pattern\BridgesPattern\obj\Debug\BridgesPattern.pdb
+C:\workarea\design-pattern\BridgesPattern\bin\Debug\BridgesPattern.exe.config
+C:\workarea\design-pattern\BridgesPattern\bin\Debug\BridgesPattern.exe
+C:\workarea\design-pattern\BridgesPattern\bin\Debug\BridgesPattern.pdb
+C:\workarea\design-pattern\BridgesPattern\obj\Debug\BridgesPattern.exe
+C:\workarea\design-pattern\BridgesPattern\obj\Debug\BridgesPattern.pdb

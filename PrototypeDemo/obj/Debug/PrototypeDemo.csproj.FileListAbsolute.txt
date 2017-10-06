@@ -3,3 +3,8 @@ C:\Design Patterns 05062017\Design-Pattern\PrototypeDemo\bin\Debug\PrototypeDemo
 C:\Design Patterns 05062017\Design-Pattern\PrototypeDemo\bin\Debug\PrototypeDemo.pdb
 C:\Design Patterns 05062017\Design-Pattern\PrototypeDemo\obj\Debug\PrototypeDemo.exe
 C:\Design Patterns 05062017\Design-Pattern\PrototypeDemo\obj\Debug\PrototypeDemo.pdb
+C:\workarea\design-pattern\PrototypeDemo\bin\Debug\PrototypeDemo.exe.config
+C:\workarea\design-pattern\PrototypeDemo\bin\Debug\PrototypeDemo.exe
+C:\workarea\design-pattern\PrototypeDemo\bin\Debug\PrototypeDemo.pdb
+C:\workarea\design-pattern\PrototypeDemo\obj\Debug\PrototypeDemo.exe
+C:\workarea\design-pattern\PrototypeDemo\obj\Debug\PrototypeDemo.pdb

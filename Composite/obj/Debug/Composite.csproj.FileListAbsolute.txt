@@ -3,3 +3,8 @@ C:\Design Patterns 05062017\Design-Pattern\Composite\bin\Debug\Composite.exe
 C:\Design Patterns 05062017\Design-Pattern\Composite\bin\Debug\Composite.pdb
 C:\Design Patterns 05062017\Design-Pattern\Composite\obj\Debug\Composite.exe
 C:\Design Patterns 05062017\Design-Pattern\Composite\obj\Debug\Composite.pdb
+C:\workarea\design-pattern\Composite\bin\Debug\Composite.exe.config
+C:\workarea\design-pattern\Composite\bin\Debug\Composite.exe
+C:\workarea\design-pattern\Composite\bin\Debug\Composite.pdb
+C:\workarea\design-pattern\Composite\obj\Debug\Composite.exe
+C:\workarea\design-pattern\Composite\obj\Debug\Composite.pdb

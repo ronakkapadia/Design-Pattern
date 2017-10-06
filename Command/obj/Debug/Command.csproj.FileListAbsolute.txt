@@ -4,3 +4,9 @@ C:\Design Patterns 05062017\Design-Pattern\Command\bin\Debug\Command.pdb
 C:\Design Patterns 05062017\Design-Pattern\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
 C:\Design Patterns 05062017\Design-Pattern\Command\obj\Debug\Command.exe
 C:\Design Patterns 05062017\Design-Pattern\Command\obj\Debug\Command.pdb
+C:\workarea\design-pattern\Command\bin\Debug\Command.exe.config
+C:\workarea\design-pattern\Command\bin\Debug\Command.exe
+C:\workarea\design-pattern\Command\bin\Debug\Command.pdb
+C:\workarea\design-pattern\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\workarea\design-pattern\Command\obj\Debug\Command.exe
+C:\workarea\design-pattern\Command\obj\Debug\Command.pdb

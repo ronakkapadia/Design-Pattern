@@ -3,3 +3,8 @@ C:\Design Patterns 05062017\Design-Pattern\SingletonPattern\bin\Debug\SingletonP
 C:\Design Patterns 05062017\Design-Pattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
 C:\Design Patterns 05062017\Design-Pattern\SingletonPattern\obj\Debug\SingletonPattern.exe
 C:\Design Patterns 05062017\Design-Pattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
+C:\workarea\design-pattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\workarea\design-pattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\workarea\design-pattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\workarea\design-pattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\workarea\design-pattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

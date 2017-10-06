@@ -2,3 +2,8 @@ C:\Design Patterns 05062017\Design-Pattern\ComputerShop\bin\Debug\ComputerShop.d
 C:\Design Patterns 05062017\Design-Pattern\ComputerShop\bin\Debug\ComputerShop.pdb
 C:\Design Patterns 05062017\Design-Pattern\ComputerShop\obj\Debug\ComputerShop.dll
 C:\Design Patterns 05062017\Design-Pattern\ComputerShop\obj\Debug\ComputerShop.pdb
+C:\workarea\design-pattern\ComputerShop\bin\Debug\ComputerShop.dll
+C:\workarea\design-pattern\ComputerShop\bin\Debug\ComputerShop.pdb
+C:\workarea\design-pattern\ComputerShop\obj\Debug\ComputerShop.csprojResolveAssemblyReference.cache
+C:\workarea\design-pattern\ComputerShop\obj\Debug\ComputerShop.dll
+C:\workarea\design-pattern\ComputerShop\obj\Debug\ComputerShop.pdb

@@ -3,3 +3,8 @@ C:\Design Patterns 05062017\Design-Pattern\AdapterPattern\bin\Debug\AdapterPatte
 C:\Design Patterns 05062017\Design-Pattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
 C:\Design Patterns 05062017\Design-Pattern\AdapterPattern\obj\Debug\AdapterPattern.exe
 C:\Design Patterns 05062017\Design-Pattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
+C:\workarea\design-pattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\workarea\design-pattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\workarea\design-pattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\workarea\design-pattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\workarea\design-pattern\AdapterPattern\obj\Debug\AdapterPattern.pdb

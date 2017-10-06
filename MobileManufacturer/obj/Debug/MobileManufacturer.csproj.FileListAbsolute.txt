@@ -2,3 +2,8 @@ C:\Design Patterns 05062017\Design-Pattern\MobileManufacturer\bin\Debug\MobileMa
 C:\Design Patterns 05062017\Design-Pattern\MobileManufacturer\bin\Debug\MobileManufacturer.pdb
 C:\Design Patterns 05062017\Design-Pattern\MobileManufacturer\obj\Debug\MobileManufacturer.dll
 C:\Design Patterns 05062017\Design-Pattern\MobileManufacturer\obj\Debug\MobileManufacturer.pdb
+C:\workarea\design-pattern\MobileManufacturer\bin\Debug\MobileManufacturer.dll
+C:\workarea\design-pattern\MobileManufacturer\bin\Debug\MobileManufacturer.pdb
+C:\workarea\design-pattern\MobileManufacturer\obj\Debug\MobileManufacturer.csprojResolveAssemblyReference.cache
+C:\workarea\design-pattern\MobileManufacturer\obj\Debug\MobileManufacturer.dll
+C:\workarea\design-pattern\MobileManufacturer\obj\Debug\MobileManufacturer.pdb

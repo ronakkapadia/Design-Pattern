@@ -3,3 +3,8 @@ C:\Design Patterns 05062017\Design-Pattern\Flyweight\bin\Debug\Flyweight.exe
 C:\Design Patterns 05062017\Design-Pattern\Flyweight\bin\Debug\Flyweight.pdb
 C:\Design Patterns 05062017\Design-Pattern\Flyweight\obj\Debug\Flyweight.exe
 C:\Design Patterns 05062017\Design-Pattern\Flyweight\obj\Debug\Flyweight.pdb
+C:\workarea\design-pattern\Flyweight\bin\Debug\Flyweight.exe.config
+C:\workarea\design-pattern\Flyweight\bin\Debug\Flyweight.exe
+C:\workarea\design-pattern\Flyweight\bin\Debug\Flyweight.pdb
+C:\workarea\design-pattern\Flyweight\obj\Debug\Flyweight.exe
+C:\workarea\design-pattern\Flyweight\obj\Debug\Flyweight.pdb

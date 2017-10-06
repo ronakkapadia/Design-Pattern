@@ -3,3 +3,8 @@ C:\Design Patterns 05062017\Design-Pattern\ChainofResponsibility\bin\Debug\Chain
 C:\Design Patterns 05062017\Design-Pattern\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
 C:\Design Patterns 05062017\Design-Pattern\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
 C:\Design Patterns 05062017\Design-Pattern\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb
+C:\workarea\design-pattern\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe.config
+C:\workarea\design-pattern\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe
+C:\workarea\design-pattern\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
+C:\workarea\design-pattern\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
+C:\workarea\design-pattern\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb

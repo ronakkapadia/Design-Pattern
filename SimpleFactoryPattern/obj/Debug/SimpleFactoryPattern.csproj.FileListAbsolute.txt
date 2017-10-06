@@ -3,3 +3,8 @@ C:\Design Patterns 05062017\Design-Pattern\SimpleFactoryPattern\bin\Debug\Simple
 C:\Design Patterns 05062017\Design-Pattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.pdb
 C:\Design Patterns 05062017\Design-Pattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.exe
 C:\Design Patterns 05062017\Design-Pattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.pdb
+C:\workarea\design-pattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe.config
+C:\workarea\design-pattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe
+C:\workarea\design-pattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.pdb
+C:\workarea\design-pattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.exe
+C:\workarea\design-pattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.pdb

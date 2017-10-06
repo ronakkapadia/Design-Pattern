@@ -6,3 +6,11 @@ C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\bin\Debug\Comp
 C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
 C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
 C:\Design Patterns 05062017\Design-Pattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
+C:\workarea\design-pattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\workarea\design-pattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\workarea\design-pattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\workarea\design-pattern\AbstractFactoryPattern\bin\Debug\ComputerShop.dll
+C:\workarea\design-pattern\AbstractFactoryPattern\bin\Debug\ComputerShop.pdb
+C:\workarea\design-pattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+C:\workarea\design-pattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\workarea\design-pattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

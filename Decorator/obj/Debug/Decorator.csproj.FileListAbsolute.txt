@@ -3,3 +3,8 @@ C:\Design Patterns 05062017\Design-Pattern\Decorator\bin\Debug\Decorator.exe
 C:\Design Patterns 05062017\Design-Pattern\Decorator\bin\Debug\Decorator.pdb
 C:\Design Patterns 05062017\Design-Pattern\Decorator\obj\Debug\Decorator.exe
 C:\Design Patterns 05062017\Design-Pattern\Decorator\obj\Debug\Decorator.pdb
+C:\workarea\design-pattern\Decorator\bin\Debug\Decorator.exe.config
+C:\workarea\design-pattern\Decorator\bin\Debug\Decorator.exe
+C:\workarea\design-pattern\Decorator\bin\Debug\Decorator.pdb
+C:\workarea\design-pattern\Decorator\obj\Debug\Decorator.exe
+C:\workarea\design-pattern\Decorator\obj\Debug\Decorator.pdb

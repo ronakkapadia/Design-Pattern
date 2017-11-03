@@ -1,1 +1,1 @@
-# Design-Pattern ![](http://52.187.3.12:9090/buildStatus/icon?job=Test%20Project?svg=true)
+# Design-Pattern  [![Build status](http://52.187.3.12:9090/buildStatus/icon?job=Test%20Project)](http://52.187.3.12:9090/buildStatus/icon?job=Test%20Project)
